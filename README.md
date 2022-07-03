@@ -1,2 +1,2 @@
 # rsscchool-cv
-# (https://github.com/Stavr8x/rsscchool-cv/blob/gh-pages/cv.md)
+# (https://Stavr8x.github.io/rsscchool-cv/cv)
