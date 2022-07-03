@@ -6,7 +6,7 @@
 * Location: Poland, Zielona Gora
 * Phone: +48 785-695-597
 * E-mail: persey108@gmail.com
----
+===
 ### About Me:
 Monitoring the operation of servers and network equipment, maintenance of the computer fleet. Software installation and configuration. Mounting of local computer networks. Installation and maintenance of payments terminals and ATMs. Technical support of bank employees and customers. Keeping the documentations.
 ---
@@ -14,6 +14,7 @@ Monitoring the operation of servers and network equipment, maintenance of the co
 * VS Code
 * Git & GitHub
 * JavaScript (Basic)
+===
 ##### Code example:
 Function find array with maximum sum of elements.
 ```
@@ -28,5 +29,6 @@ function getMaxSubSum(massive) {
             return maxSum;
         }
 ```
+===
 #### Education:
 Vitebsk State University, Phisics and computer sience
