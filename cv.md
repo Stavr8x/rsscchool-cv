@@ -1,5 +1,6 @@
 **[rsschool-cv](https://github.com/Stavr8x/rsscchool-cv.git)**
 ***
+![myself](f:\MyWork\я\Zhenya.jpg)
 # Evgeniy Sasimovich
 ## *Junior Frontend Developer*
 ### Contact information:
