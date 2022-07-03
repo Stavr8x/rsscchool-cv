@@ -1,20 +1,20 @@
 **[rsschool-cv](https://github.com/Stavr8x/rsscchool-cv.git)**
 ***
 # Evgeniy Sasimovich
-# *Junior Frontend Developer*
-# Contact information:
+## *Junior Frontend Developer*
+### Contact information:
 * Location: Poland, Zielona Gora
 * Phone: +48 785-695-597
 * E-mail: persey108@gmail.com
-===
-# About Me:
+---
+### About Me:
 Monitoring the operation of servers and network equipment, maintenance of the computer fleet. Software installation and configuration. Mounting of local computer networks. Installation and maintenance of payments terminals and ATMs. Technical support of bank employees and customers. Keeping the documentations.
 ---
-# Skills:
+#### Skills:
 * VS Code
 * Git & GitHub
 * JavaScript (Basic)
-# Code example:
+##### Code example:
 Function find array with maximum sum of elements.
 ```
 function getMaxSubSum(massive) {
@@ -28,5 +28,5 @@ function getMaxSubSum(massive) {
             return maxSum;
         }
 ```
-# Education:
+#### Education:
 Vitebsk State University, Phisics and computer sience
