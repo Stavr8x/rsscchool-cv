@@ -1,2 +1,2 @@
 # rsscchool-cv
-# (https://GITHUB-USERNAME.github.io/rsschool-cv/cv)
+# (https://Stavr8x.github.io/rsschool-cv/cv)
